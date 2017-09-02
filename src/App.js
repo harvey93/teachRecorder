@@ -5,9 +5,9 @@ import Menu from './SideBar.js';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-
+      <div className="app-container">
         <Menu/>
+        <h1>Wordasdasdasads</h1>
       </div>
     );
   }

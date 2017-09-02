@@ -1,5 +1,7 @@
 @import "reset.css";
+@import "sidebar.css";
 
-.test{
-  color: red;
+.app-container{
+  display: flex;
+  justify-content:space-between;
 }
