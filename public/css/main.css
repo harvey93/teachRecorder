@@ -1,7 +1,6 @@
 @import "reset.css";
 @import "sidebar.css";
+@import "micscreen.css";
 
 .app-container{
-  display: flex;
-  justify-content:space-between;
 }

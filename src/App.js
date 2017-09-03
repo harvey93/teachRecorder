@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Menu from './SideBar.js';
+import MicScreen from './MicScreen.js';
 
 
 class App extends Component {
@@ -7,7 +8,7 @@ class App extends Component {
     return (
       <div className="app-container">
         <Menu/>
-        <h1>Wordasdasdasads</h1>
+        <MicScreen />
       </div>
     );
   }

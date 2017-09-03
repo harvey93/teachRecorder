@@ -1,0 +1,11 @@
+.micscreen-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #F66273;
+  height:100vh;
+}
+
+.mic-icon{
+  color: #373a47;
+}
