@@ -62,3 +62,7 @@
 .menu-item-div{
   display: flex;
 }
+
+.first-item{
+  padding-top: 20px;
+}

@@ -9,7 +9,7 @@ class SideBar extends React.Component {
       <div>
         <Menu width='200px'>
 
-          <a className="menu-item" href="/LastRecording">Last Recording</a>
+          <a className="menu-item first-item" href="/LastRecording">Last Recording</a>
           <a className="menu-item" href="/ClassRecordings">Class Recordings</a>
           <a className="menu-item" href="/Analytics">Analytics</a>
           <a className="menu-item" href="/Schedule">Schedule</a>

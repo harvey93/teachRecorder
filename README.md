@@ -1,6 +1,6 @@
 # Teach Recorder
 
-Teach Recorder is a simple non functioning home screen for a recording application. Teach recorder is built using React.
+Teach Recorder is a simple non-functional home screen for a recording application. Teach recorder is built using React.
 
 ## Features and Implementation
 
@@ -41,16 +41,7 @@ changeRecordingState(state){
 
 ```
 
-## Future Directions For The Project
-
-* MVC Architecture: Models, Controllers and Model Level Validations
-* ORM with Sequelize
-* UI Level Validations
-* Authentication layer with Passport.js
-* Unit Tests for both UI and Back End
-
-
-## Running Digital Wallet Locally
+## Running Teach Recorder Locally
 
 * `git clone https://github.com/harvey93/teachRecorder.git`
 * `cd teachRecorder`
