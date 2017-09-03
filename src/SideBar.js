@@ -7,11 +7,15 @@ class SideBar extends React.Component {
   render () {
     return (
       <div>
-        <Menu className="screen">
-          <a id="home" className="menu-item" href="/">Home</a>
-          <a id="about" className="menu-item" href="/about">About</a>
-          <a id="contact" className="menu-item" href="/contact">Contact</a>
+        <Menu width='200px'>
 
+          <a className="menu-item" href="/">Last Recording</a>
+          <a className="menu-item" href="/about">Class Recordings</a>
+          <a className="menu-item" href="/contact">Analytics</a>
+          <a className="menu-item" href="/contact">Schedule</a>
+          <a className="menu-item" href="/contact">My Profile</a>
+
+        <div className="displacer"/>
         </Menu>
       </div>
     );
