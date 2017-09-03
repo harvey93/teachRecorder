@@ -1,11 +1,31 @@
 .micscreen-container{
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   background: #F66273;
   height:100vh;
 }
 
+.button-mic{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.button-mic:hover{
+  cursor: pointer;
+}
+
 .mic-icon{
   color: #373a47;
+}
+
+.play-button{
+  margin-top: 20px;
+  color: #373a47;
+  font-size: 30px;
+  font-weight: bolder;
 }

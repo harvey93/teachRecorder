@@ -37,7 +37,7 @@
 
 /* Wrapper for item list */
 .bm-item-list {
-  color: white;
+  color: #e5e5e5;
   /*padding: 0.8em;*/
   display: flex;
   justify-content: space-around;
