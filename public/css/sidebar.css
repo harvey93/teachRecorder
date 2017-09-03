@@ -54,3 +54,11 @@
 .displacer {
   height: 40%;
 }
+
+.menu-item:hover{
+  color: #F66273;
+}
+
+.menu-item-div{
+  display: flex;
+}
